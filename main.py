@@ -4,7 +4,7 @@
 # church = 'triune centre'
 # print(church)
 
-address = 'ondo street'
+address = 'ondo street is in Lagos'
 print(address)
 
 
